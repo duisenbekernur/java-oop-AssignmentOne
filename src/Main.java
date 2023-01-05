@@ -71,7 +71,7 @@ public class Main {
             System.out.println("Average length of the shape: " + averageLength);
             System.out.println("Perimeter of the shape: " + perimeter);
 
-            sc1.close();
+            sc2.close();
             System.out.println();
         }
 
